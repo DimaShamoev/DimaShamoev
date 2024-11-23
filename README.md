@@ -60,7 +60,7 @@
   <span>&nbsp;&nbsp;&nbsp;</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass logo" />
   <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="TailwindCSS logo" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="TailwindCSS logo"/>
 </div>
 
 <hr>
@@ -75,6 +75,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DimaShamoev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+
 ###
 
 <hr>
@@ -82,5 +83,6 @@
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DimaShamoev.DimaShamoev" alt="Visitor badge" />
 </div>
+
 
 ###
