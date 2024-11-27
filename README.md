@@ -56,11 +56,14 @@
   <span>&nbsp;&nbsp;&nbsp;</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <span>&nbsp;&nbsp;&nbsp;</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <span>&nbsp;&nbsp;&nbsp;</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS logo" />
   <span>&nbsp;&nbsp;&nbsp;</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass logo" />
   <span>&nbsp;&nbsp;&nbsp;</span>
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="TailwindCSS logo"/>
+
 </div>
 
 <hr>
