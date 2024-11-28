@@ -46,23 +46,23 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5_logo" />
   <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3_logo" />
   <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript_logo" />
   <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript_logo" />
   <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React_JS_logo" />
   <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux_logo"  />
   <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS_logo" />
   <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass_Scss_logo" />
   <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="TailwindCSS logo"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="TailwindCSS_logo"/>
 
 </div>
 
@@ -74,7 +74,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DimaShamoev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="Streak graph" />
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DimaShamoev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -84,7 +84,7 @@
 <hr>
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DimaShamoev.DimaShamoev" alt="Visitor badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DimaShamoev.DimaShamoev" alt="Visitor_Cnt_Badge" />
 </div>
 
 
