@@ -74,10 +74,9 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DimaShamoev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="Streak graph" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DimaShamoev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
 
 ###
 
@@ -86,6 +85,5 @@
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DimaShamoev.DimaShamoev" alt="Visitor_Cnt_Badge" />
 </div>
-
 
 ###
