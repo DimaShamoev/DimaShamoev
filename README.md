@@ -24,6 +24,7 @@
 <hr>
 
 <h1 align="center">Hey 👋, Welcome to My Profile!</h1>
+
 ###
 
 <h3 align="left">Frontend Developer from Georgia</h3>
