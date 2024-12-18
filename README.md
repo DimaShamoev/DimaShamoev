@@ -1,7 +1,9 @@
 <div align="center">
   <img height="400" src="https://wallpapersok.com/images/hd/baby-mike-wazowski-scaring-up-fun-tawzl0q1cygojxhn.jpg" alt="Baby Mike Wazowski" />
 </div>
+
 ###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/dima-shamoev-1003a7305/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
@@ -16,6 +18,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
   </a>
 </div>
+
 ###
 
 <hr>
@@ -24,6 +27,7 @@
 ###
 
 <h3 align="left">Frontend Developer from Georgia</h3>
+
 ###
 
 <p align="left">
@@ -31,11 +35,13 @@
   - 🧠 Always exploring new tools and techniques to stay ahead in the field.<br>
   - 🌍 In my free time, you'll find me shooting hoops or immersing myself in music.
 </p>
+
 ###
 
 <hr>
 
 <h3 align="left">🛠️ Languages and Tools</h3>
+
 ###
 
 <div align="center">
@@ -70,6 +76,7 @@
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DimaShamoev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
 ###
 
 <hr>
