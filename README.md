@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">Frontend Developer from Georgia</h3>
+<h3 align="left" style='display: flex; align-items: center; gap: 5px;'>Frontend Developer from Georgia <img src='https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f1ec-1f1ea.svg' height='25'></h3>
 
 ###
 
