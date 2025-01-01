@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://wallpapersok.com/images/hd/baby-mike-wazowski-scaring-up-fun-tawzl0q1cygojxhn.jpg" alt="Baby Mike Wazowski" />
+  <img height="400" src="https://wallpapersok.com/images/hd/baby-mike-wazowski-scaring-up-fun-tawzl0q1cygojxhn.jpg" alt="Baby Mike Wazowski"/>
 </div>
 
 ###
