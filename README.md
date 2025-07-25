@@ -21,7 +21,7 @@ Frontend Developer from Georgia 🇬🇪</h2>
   - 🌍 In my free time, you'll find me shooting hoops or immersing myself in music.
 </p>
 
-<hr>
+##
 
 ### <h3 align="left" style="font-weight: 700;">🛠️ Languages and Tools</h3>
 <div align="center">
@@ -60,7 +60,7 @@ Frontend Developer from Georgia 🇬🇪</h2>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
 </div>
 
-<hr>
+##
 
 ### <h3 align="left" style="font-weight: 700;">👨🏻‍💻 My Stats Chart</h3>
 <div align="center">
@@ -69,7 +69,7 @@ Frontend Developer from Georgia 🇬🇪</h2>
 </div>
 
 
-<hr>
+##
 
 
 <div align="right">
