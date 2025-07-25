@@ -1,8 +1,6 @@
 <div align="center">
-  <img height="400" src="https://wallpapersok.com/images/hd/baby-mike-wazowski-scaring-up-fun-tawzl0q1cygojxhn.jpg" alt="Baby Mike Wazowski"/>
+  <img height="400" src="https://wallpapersok.com/images/hd/baby-mike-wazowski-scaring-up-fun-tawzl0q1cygojxhn.jpg" alt="Wazowski"/>
 </div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dima-shamoev-1003a7305/" target="_blank">
@@ -11,25 +9,11 @@
   <a href="https://x.com/DimaShamoev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
   </a>
-  <a href="https://www.facebook.com/Dima.Shamoev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook logo" />
-  </a>
-  <a href="https://www.instagram.com/__dima__2005_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
-  </a>
 </div>
 
-###
 
-<hr>
-
-<h1 align="center">Hey 👋, Welcome to My Profile!</h1>
-
-###
-
-<h3 align="left" style='display: flex; align-items: center; gap: 5px;'>Frontend Developer from Georgia <img src='https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f1ec-1f1ea.svg' height='25'></h3>
-
-###
+<h2 align="left" style='font-size: 20px; font-weight: 700'>
+Frontend Developer from Georgia 🇬🇪</h2>
 
 <p align="left">
   - 🔭 I’m focused on building responsive and dynamic websites to continually refine my frontend skills.<br>
@@ -37,54 +21,57 @@
   - 🌍 In my free time, you'll find me shooting hoops or immersing myself in music.
 </p>
 
-###
-
 <hr>
 
-<h3 align="left">🛠️ Languages and Tools</h3>
-
-###
-
+### <h3 align="left" style="font-weight: 700;">🛠️ Languages and Tools</h3>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5_logo" />
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3_logo" />
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript_logo" />
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript_logo" />
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React_JS_logo" />
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux_logo"  />
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS_logo" />
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass_Scss_logo" />
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="TailwindCSS_logo"/>
-
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
 </div>
 
 <hr>
 
-<h3 align="left">👨🏻‍💻 My Stats Chart</h3>
-
-###
-
+### <h3 align="left" style="font-weight: 700;">👨🏻‍💻 My Stats Chart</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DimaShamoev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="Streak graph" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DimaShamoev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+   <img src="https://streak-stats.demolab.com?user=dimashamoev&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dimashamoev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 
 <hr>
+
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DimaShamoev.DimaShamoev" alt="Visitor_Cnt_Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DimaShamoev.DimaShamoev&left_color=dimgray&right_color=darkgreen" alt="Visitor_Cnt_Badge"  />
 </div>
-
-###
-
