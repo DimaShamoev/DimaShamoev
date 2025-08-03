@@ -66,7 +66,8 @@ Frontend Developer from Georgia 🇬🇪</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dimashamoev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=merko&hide_border=false&order=2" height="200" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=dimashamoev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimashamoev&radius=16&theme=merko&area=true&order=5&line=00dc11&point=c1ffc6&area_color=94d599&hide_border=false&hide_title=true" height="200" alt="activity-graph graph"  style="border: solid 2px white"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimashamoev&radius=16&theme=merko&area=true&order=5&line=00dc11&point=c1ffc6&area_color=94d599&hide_border=false&hide_title=true" height="200" alt="activity-graph graph"
+     style="border: 2px solid;"/>
 </div>
 
 ##
