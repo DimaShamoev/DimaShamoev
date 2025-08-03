@@ -20,6 +20,7 @@ Frontend Developer from Georgia 🇬🇪</h2>
   - 🧠 Always exploring new tools and techniques to stay ahead in the field.<br>
   - 🌍 In my free time, you'll find me shooting hoops or immersing myself in music.
 </p>
+
 ##
 
 ### <h3 align="left" style="font-weight: 700;">🛠️ Languages and Tools</h3>
