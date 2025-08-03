@@ -20,7 +20,6 @@ Frontend Developer from Georgia 🇬🇪</h2>
   - 🧠 Always exploring new tools and techniques to stay ahead in the field.<br>
   - 🌍 In my free time, you'll find me shooting hoops or immersing myself in music.
 </p>
-
 ##
 
 ### <h3 align="left" style="font-weight: 700;">🛠️ Languages and Tools</h3>
@@ -59,18 +58,13 @@ Frontend Developer from Georgia 🇬🇪</h2>
   <img width="12" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
 </div>
-
 ##
 
 ### <h3 align="left" style="font-weight: 700;">👨🏻‍💻 My Stats Chart</h3>
 <div align="center">
-   <img src="https://streak-stats.demolab.com?user=dimashamoev&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dimashamoev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-
 ##
-
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DimaShamoev.DimaShamoev&left_color=dimgray&right_color=darkgreen" alt="Visitor_Cnt_Badge"  />
